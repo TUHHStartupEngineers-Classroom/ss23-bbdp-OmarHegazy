@@ -1,0 +1,13 @@
+name: bike_data_germany
+title: bike_data_germany
+username:
+account: omarhegazy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9345217
+bundleId: 7372818
+url: https://omarhegazy.shinyapps.io/bike_data_germany/
+when: 1687384314.71672
+lastSyncTime: 1687384314.71674
+asMultiple: FALSE
+asStatic: FALSE
